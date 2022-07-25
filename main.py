@@ -1,0 +1,5 @@
+print("Hi,This is Abena and welcome to Fidelity app")
+account = input("Enter your account number:")
+name = input("Please enter your full name:")
+problem = input("Can you please tell your problem?:")
+amount = input("what was the total amount sent?:")
